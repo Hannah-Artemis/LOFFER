@@ -4,6 +4,8 @@ title: 关于
 permalink: /about/
 ---
 
+BY Hannah aka Artemis 
+
 2021-2024：给科研一个浪费我人生的机会。
 
 以好奇心为切口，展开一次学术历险记吧。Have fun!!!
