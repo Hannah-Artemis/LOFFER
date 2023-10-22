@@ -8,7 +8,9 @@
 
 # 描述/签名
 name: Lan Hu # 神的游戏  # 牛肝菌老蘑菇的学术自留地
-description: "Graduate student in Geophysics at USTC \r\n B.S. 2021 (Geophysics) Tongji University \r\n Email: holden.artemis@gmail.com"
+description: |
+ Graduate student in Geophysics at USTC \r\n 
+ B.S. 2021 (Geophysics) Tongji University \r\n Email: holden.artemis@gmail.com
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
