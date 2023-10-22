@@ -32,14 +32,14 @@ favicon: https://i.loli.net/2021/09/09/hDob1ZytvQcjUaz.jpg
 
 # 菜单中的按钮
 navigation:
-  - name: 首页 tt 
+  - name: CV #首页
     url: /
-  - name: 关于  <br /> 
+  - name: RESEARCH INTERESTS #关于 
     url: /about
-  - name: 归档    
+  - name: RESEARCH EXPERIENCES #归档    
     url: /archive
-  - name: 标签  <br /> t
-    url: /tags
+#  - name: 标签  <br /> t
+#    url: /tags
 
 # 每页的文章数
 paginate: 8
