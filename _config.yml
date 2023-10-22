@@ -8,7 +8,9 @@
 
 # 描述/签名
 name: Lan Hu # 神的游戏
-description: Graduate student in Geophysics | B.S. 2021 (Geophysics) Tongji University | Email: # 牛肝菌老蘑菇的学术自留地
+description: | 
+    Graduate student in Geophysics at USTC
+    B.S. 2021 (Geophysics) Tongji University # 牛肝菌老蘑菇的学术自留地
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -52,7 +54,7 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: holden.artemis@gmail.com #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
