@@ -8,9 +8,7 @@
 
 # 描述/签名
 name: Lan Hu # 神的游戏  # 牛肝菌老蘑菇的学术自留地
-description: |
- Graduate student in Geophysics at USTC
- B.S. 2021 (Geophysics) Tongji University \r\n Email: holden.artemis@gmail.com
+description: Graduate student in Geophysics at USTC
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -67,8 +65,8 @@ footer-links:
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
-# 站点页脚的文字
-footer-text: It's better to burn out, than to fade away. # Copyright (c) 2019 来自中世界
+# 站点页脚的文字 # Copyright (c) 2019 来自中世界
+footer-text: "Email: holden.artemis@gmail.com \nIt's better to burn out, than to fade away." 
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
