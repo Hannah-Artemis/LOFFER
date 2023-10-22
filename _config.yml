@@ -32,13 +32,13 @@ favicon: https://i.loli.net/2021/09/09/hDob1ZytvQcjUaz.jpg
 
 # 菜单中的按钮
 navigation:
-  - name: 首页 <br />   
+  - name: 首页 tt 
     url: /
-  - name: 关于
+  - name: 关于  <br /> 
     url: /about
-  - name: 归档
+  - name: 归档    
     url: /archive
-  - name: 标签
+  - name: 标签  <br /> t
     url: /tags
 
 # 每页的文章数
