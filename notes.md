@@ -8,5 +8,8 @@ html语法中的换行由<bt />操作；
 
 **
 目录改为Contents：在style.scss
+
 上一篇/下一篇改为英文：在Post.html
+归档改为英文：在archive的index.html
+
 目录不包含题目：toc.html中修改h_min由1到2
