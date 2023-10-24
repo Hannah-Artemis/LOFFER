@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Iceland Shear Wave Splitting
-date: 07/2020-11/2020
+date: 2020-11
 Author: Lan Hu
 tags: [work diary]
 comments: false
 toc: true
 ---
 
+*07/2020-11/2020*
 
 
 ## Basic Introduction
