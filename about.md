@@ -17,12 +17,14 @@ permalink: /about/
 
 -->
 
-<font size=5>**Thermal evolution of terrestrial planets**</font>
+<font size=7>**Thermal evolution of terrestrial planets**</font>
+
 Lateral heterogeneity in terrestrial planets (surface, bottom, interior) and its effects on thermal evolution; 
 Possible feedback mechanism (especially positive feedbacks) during thermal evolution of terrestrial planets.
 
 
-<font size=5>**Volatile in terrestrial planets** </font>
+<font size=7>**Volatile in terrestrial planets** </font>
+
 Degassing; 
 Water presence and distribution in terrestrial planets
 
