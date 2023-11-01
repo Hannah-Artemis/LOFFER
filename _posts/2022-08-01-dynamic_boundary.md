@@ -15,7 +15,7 @@ toc: true
 
 ## Background
 
-One of the theories to explain the origin of multi-plate tectonics proposed that the generation of plates can be caused by changes in the thickness of lithosphere during the Earth's thermal evolution. We design a model of mantle convection with dynamic lithosphere boundary to justify this theory.
+One of the theories to explain the origin of multi-plate tectonics proposed that the generation of plates can be caused by changes in the thickness of lithosphere during the Earth's thermal evolution. We designed a model of mantle convection with dynamic lithosphere boundary to justify this theory.
 
 
 
