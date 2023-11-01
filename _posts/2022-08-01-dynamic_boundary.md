@@ -9,7 +9,7 @@ toc: true
 
 ---
 
-*Advisor: Wei Leng	06/2022-08/2022*
+*Advisor: Wei Leng	06/2022–08/2022*
 
 
 
