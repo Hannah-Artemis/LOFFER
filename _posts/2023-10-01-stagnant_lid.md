@@ -16,15 +16,15 @@ toc: true
 
 ## Background
 
-Lithosphere thickness heterogeneity on terrestrial planets is observed on Mars and Venus. Its effect on Earth has been discussed a lot as "supercontinent heating". We design a model to investigate its effect on short-wavelength stagnant-lid convection (the convection mode of Mars and Venus). 
+Lithosphere thickness heterogeneity on terrestrial planets is observed on Mars and Venus. Its effect on Earth has been discussed a lot as "supercontinent heating". We designed a model to investigate its effect on short-wavelength stagnant-lid convection (the convection mode of Mars and Venus). 
 
 
 
 ## Methods
 
-1. Use **ASPECT** to conduct 2D numerical modeling of Mars's mantle convection; 
-2. Add thicker lid as high viscosity composition by particle-in-cell method; 
-3. Test different lithosphere and convection parameters.
+1. Used **ASPECT** to conduct 2D numerical modeling of Mars's mantle convection; 
+2. Added thicker lid as high viscosity composition by particle-in-cell method; 
+3. Tested different lithosphere and convection parameters.
 
 
 
