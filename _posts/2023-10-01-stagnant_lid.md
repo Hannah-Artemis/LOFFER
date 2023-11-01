@@ -31,6 +31,6 @@ Lithosphere thickness heterogeneity on terrestrial planets is observed on Mars a
 ## Main Conclusions
 
 1. The thickened lithosphere depresses the development of downwelling below it to cause a horizontal temperature difference (rather than directly insulation);
-2. The horizontal temperature difference can drive long-wavelength convection, which degree is controlled by the number of thick lithospheres, not by the extent of the thick lithosphere.
+2. The horizontal temperature difference can drive long-wavelength convection, whose degree is controlled by the number of thick lithospheres, not by the extent of the thick lithosphere.
 3. Surface stress state is affected by lithosphere thickness heterogeneity.
 
